@@ -20,5 +20,6 @@ public class Example1b {
 			if(b<0) break;
 			System.out.print((char)b);
 		}
+		in.close();
 	}
 }
